@@ -2675,7 +2675,7 @@
     (property "Footprint" "CAPC1608X90N" (id 2) (at 97.79 147.32 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "" (id 3) (at 97.79 149.86 0)
+    (property "Datasheet" "https://www.mouser.com/datasheet/2/40/X7RDielectric-777024.pdf" (id 3) (at 97.79 149.86 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Description" "Capacitor MLCC 0603 100nF 16V AVX 0603 FlEXITERM 100nF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric +/-10% SMD" (id 4) (at 97.79 152.4 0)

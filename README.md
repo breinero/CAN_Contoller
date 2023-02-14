@@ -1,5 +1,7 @@
 # Programable CAN Controller Node
 
+<p align="center"><img src="assets/CAN_Controller.jpg"></p>
+
 This design is a generic Controller Area Network (CAN) controller which can be programmed, and reprogramed for use in a given CAN compliant network. It is designed so that a user can create, or order many, duplicates of this board in batches, and then program each individual board with a specific function within a network. This board has also been designed to be as physically small as possible, so that this same board design can be used through out a given network. This project is purely a hardware design, and does not include an software or firmware to for communicating on a CAN network. 
 
 This board is intended to be used in a variety of embedded use cases, but I inted to use this board for retrofitting a CAN network into vintage automobiles and in homebuilt and experimental aircraft. For that reaon the specific components of the design were selected for their quality and reliability.
@@ -22,4 +24,4 @@ This board is intended to be used in a variety of embedded use cases, but I inte
 1. Easily of assembly. Achieving the smallest footprint and volume takes priority over being able to hand solder this design. Folks have the option to over this part from a PCB assembly service or vendor, if they have difficulty assembling the board. 
 
 # License 
-TBD
+The design files and documentation in this project are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](LICENSE)

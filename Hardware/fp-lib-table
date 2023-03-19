@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Schottky_Diode")(type "KiCad")(uri "${KIPRJMOD}/footprints/DFLS120L-7.pretty")(options "")(descr ""))
+  (lib (name "MSS1048-223")(type "KiCad")(uri "${KIPRJMOD}/footprints/MSS1048-223.pretty")(options "")(descr ""))
+  (lib (name "0603YC104KAT2A")(type "KiCad")(uri "${KIPRJMOD}/footprints/0603YC104KAT2A.pretty")(options "")(descr ""))
+  (lib (name "C3225_Commercial")(type "KiCad")(uri "${KIPRJMOD}/footprints/C3225_Commercial.pretty")(options "")(descr ""))
+  (lib (name "C3216_Commercial")(type "KiCad")(uri "${KIPRJMOD}/footprints/C3216_Commercial.pretty")(options "")(descr ""))
+  (lib (name "1N4148WQ-7-F")(type "KiCad")(uri "${KIPRJMOD}/footprints/1N4148WQ-7-F.pretty")(options "")(descr ""))
+  (lib (name "MP2393GTL-P")(type "KiCad")(uri "${KIPRJMOD}/footprints/MP2393GTL-P.pretty")(options "")(descr ""))
+  (lib (name "CAPC3216X180N")(type "KiCad")(uri "${KIPRJMOD}/footprints/CAPC3216X180N.pretty")(options "")(descr ""))
+  (lib (name "ABLS-8.000MHZ-B2-T")(type "KiCad")(uri "${KIPRJMOD}/footprints/ABLS-8.000MHZ-B2-T.pretty")(options "")(descr ""))
+  (lib (name "ECS-80-8-30Q-VS-TR")(type "KiCad")(uri "${KIPRJMOD}/footprints/ECS-80-8-30Q-VS-TR .pretty")(options "")(descr ""))
+)

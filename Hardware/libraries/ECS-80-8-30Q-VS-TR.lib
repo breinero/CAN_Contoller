@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ECS-80-8-30Q-VS-TR
+#/2351586/1032303/2.49/2/4/Crystal or Oscillator
+DEF ECS-80-8-30Q-VS-TR Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "ECS-80-8-30Q-VS-TR" 350 150 50 H V L CNN
+F2 "ECS80830QVSTR" 350 50 50 H I L CNN
+F3 "https://www.mouser.co.uk/datasheet/2/122/ECX-53Q-1595881.pdf" 350 -50 50 H I L CNN
+F4 "Crystals 8MHz 8pF AEC ESR 100 -40C +125C" 350 -150 50 H I L CNN "Description"
+F5 "1.1" 350 -250 50 H I L CNN "Height"
+F6 "520-80-8-30Q-VST" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ECS/ECS-80-8-30Q-VS-TR?qs=T3oQrply3y8AmzaMN9qXDQ%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "ECS" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "ECS-80-8-30Q-VS-TR" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 2 0 0 100 R 50 50 0 0 P
+X ~  400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

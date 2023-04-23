@@ -10,4 +10,6 @@
   (lib (name "CAPC3216X180N")(type "KiCad")(uri "${KIPRJMOD}/footprints/CAPC3216X180N.pretty")(options "")(descr ""))
   (lib (name "ABLS-8.000MHZ-B2-T")(type "KiCad")(uri "${KIPRJMOD}/footprints/ABLS-8.000MHZ-B2-T.pretty")(options "")(descr ""))
   (lib (name "ECS-80-8-30Q-VS-TR")(type "KiCad")(uri "${KIPRJMOD}/footprints/ECS-80-8-30Q-VS-TR .pretty")(options "")(descr ""))
+  (lib (name "DFLS120L7")(type "KiCad")(uri "${KIPRJMOD}/footprints/DFLS120L7.pretty")(options "")(descr ""))
+  (lib (name "DFLS120LQ-7")(type "KiCad")(uri "${KIPRJMOD}/footprints/DFLS120LQ-7.pretty")(options "")(descr ""))
 )

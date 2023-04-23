@@ -1,11 +1,11 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"D1";"DFLS120L7";1;"D_Schottky";;;
-2;"J1";"PinHeader_1x04_P2.00mm_Vertical";1;"Conn_01x04";;;
-3;"J5";"PinHeader_1x09_P2.00mm_Vertical";1;"Conn_01x09";;;
-4;"U2";"SOIC-18W_7.5x11.6mm_P1.27mm";1;"MCP2515-xSO";;;
-5;"Y1";"ECS80830QVSTR";1;"8 MHz";;;
-6;"L1";"Inductor_MSS1048-223";1;"22 µH";;;
-7;"U4";"SOT-23-6";1;"MCP16331CH";;;
+1;"J1";"PinHeader_1x04_P2.00mm_Vertical";1;"Conn_01x04";;;
+2;"J5";"PinHeader_1x09_P2.00mm_Vertical";1;"Conn_01x09";;;
+3;"U2";"SOIC-18W_7.5x11.6mm_P1.27mm";1;"MCP2515-xSO";;;
+4;"Y1";"ECS80830QVSTR";1;"8 MHz";;;
+5;"L1";"Inductor_MSS1048-223";1;"22 µH";;;
+6;"U4";"SOT-23-6";1;"MCP16331CH";;;
+7;"D1";"DFLS120LQ7";1;"DFLS120LQ-7";;;
 8;"C3,C4";"C3225_Commercial";2;"10uF";;;
 9;"C7,C6";"CAPC3216X180N";2;"10 uF";;;
 10;"R1,R2";"R_0603_1608Metric";2;"10";;;
